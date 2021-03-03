@@ -3,7 +3,7 @@
 
 ZEAL allows protein structures to be aligned based on their global shape similarity. 
 
-## Publication 
+### Citation 
 Please cite ZEAL using the reference below if you use it in any publication:
 
 Filip Ljung and Ingemar André ... 2021 ...
