@@ -10,7 +10,7 @@ Filip Ljung and Ingemar André ... 2021 ...
 
 
 ## Web version
-The server implementation of ZEAL is available at [zeal.andrelab.org](zeal.andrelab.org)
+The server implementation of ZEAL is available at [zeal.andrelab.org](http://zeal.andrelab.org/webapps/home/)
 
 The code: [https://github.com/Andre-lab/ZEAL_web](https://github.com/Andre-lab/ZEAL_web)
 
