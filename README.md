@@ -6,15 +6,14 @@ ZEAL allows protein structures to be aligned based on their global shape similar
 ### Citation 
 Please cite ZEAL using the reference below if you use it in any publication:
 
-Filip Ljung and Ingemar André ... 2021 ...
-
+Filip Ljung and Ingemar André; ZEAL: protein structure alignment based on shape similarity; *Accepted in Bioinformatics March 2021*
 
 ## Web version
-The server implementation of ZEAL is available at [zeal.andrelab.org](http://zeal.andrelab.org/webapps/home/)
+The server implementation of ZEAL is available at [zeal.andrelab.org](https://andrelab.org/zeal)
 
 The code: [https://github.com/Andre-lab/ZEAL_web](https://github.com/Andre-lab/ZEAL_web)
 
-Please not that this version does not support interactive selection for local shape alignment. A standalone - desktop - version is not yet available. If you have Matlab you can run the mlapp-file directly and use ZEAL that way. 
+Please not that this version does not support interactive selection for local shape alignment.
 
 ## CLI version
 ZEAL can be run as a commandline tool without the need of a Matlab license. 
